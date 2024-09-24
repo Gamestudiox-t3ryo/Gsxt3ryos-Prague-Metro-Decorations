@@ -1,3 +1,3 @@
-# prague-metro-pids
+# Gsxt3ryo's Prague Metro Decorations
 
-Hello :)
+You can download from [Mordinth](https://modrinth.com/mods/gpmd)
